@@ -5,16 +5,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saswatiray55&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 <!-- social links -->
-<h3 align="center">Connect with me</h3>
+<h3 align="center">🔗 Connect with me 🌏</h3>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/saswati-ray-4b9a21285"><img height="34" src="images/socials/linkedin.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
-    <a href="https://www.facebook.com/profile.php?id=100088388337571&mibextid=ZbWKwL"><img height="34" src="images/socials/facebook.svg" alt="Facebook"></a>&nbsp;&nbsp;
-    <a href="https://instagram.com/saswati2975?igshid=ZDc4ODBmNjlmNQ=="><img height="34" src="images/socials/instagram.svg" alt="Instagram"></a>&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/saswati-ray-4b9a21285"><img height="34" src="images/socials/linkedin.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
+    <a href="https://www.facebook.com/profile.php?id=100088388337571"><img height="34" src="images/socials/facebook.svg" alt="Facebook"></a>&nbsp;&nbsp;
+    <a href="https://instagram.com/saswati2975"><img height="34" src="images/socials/instagram.svg" alt="Instagram"></a>&nbsp;&nbsp;
 </p>
 
 <!-- github trophies -->
-<h3 align="center">GitHub Trophies</h3>
+<h3 align="center">🏆 GitHub Trophies 🥇</h3>
 <div align="center">
   
 ![trophy](https://github-profile-trophy.vercel.app/?username=saswatiray55&theme=dark_lover&no-frame=true&no-bg=true&column=3&title=Commits,Followers,Stars)
@@ -24,7 +24,7 @@
 </div>
 
 <!-- github stats -->
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">📈 GitHub Stats 📊</h3>
 <div align="center">
     <img height="160px" width="160px" src="images/wings/left.svg" alt="left wing"> <!-- to be made responsive -->
     <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=saswatiray55&theme=windows-dark&hide_border=true" alt="streak stats">
@@ -49,7 +49,6 @@
 </h1>
 
 <h1>Language & Script:&nbsp;&nbsp; <!-- Language & Script -->
-    <img src="images/languages/bash.svg" height="34" alt="bash" align=right>&nbsp;&nbsp;
     <img src="images/languages/python.svg" height="34" alt="python" align=right>&nbsp;&nbsp;
     <img src="images/languages/java.svg" height="34" alt="JAVA" align=right>&nbsp;&nbsp;
     <img src="images/languages/cpp.svg" height="34" alt="C++" align=right>&nbsp;&nbsp;
